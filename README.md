@@ -12,7 +12,8 @@ I then labeled stations present in the alert text for issues "at" or "near" stat
 
 See also: [Reddit discussion](https://www.reddit.com/r/boston/comments/72fp5e/red_line_problems_in_2016_a_map/).
 
-## The data
-
 ## License
 Data used here was kindly provided by developer@mbta.com. Use of MBTA data is subject to the MassDOT Developer's License Agreement which can be found at http://www.massdot.state.ma.us/DevelopersData.aspx.
+
+[Basemap by Michael Kvrivishvili](https://commons.wikimedia.org/wiki/File:2013_unofficial_MBTA_subway_map_by_Michael_Kvrivishvili.png) on Wikimedia Commons. This file is licensed under 
+the Creative Commons Attribution 2.0 Generic license.
